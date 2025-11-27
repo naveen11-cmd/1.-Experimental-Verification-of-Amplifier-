@@ -101,7 +101,7 @@ ACL = 1 + RF/R1
 ## CIRCUIT DIAGRAM
 
 
-![WhatsApp Image 2025-11-27 at 18 11 10_8c1a3abb](https://github.com/user-attachments/assets/c84d7434-5763-4a13-a4af-170f621026bf)
+![WhatsApp Image 2025-11-27 at 18 11 10_7892462b](https://github.com/user-attachments/assets/ac51aeeb-577f-4560-b9a1-f3b04cbec8b2)
 
 ---
 
