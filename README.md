@@ -84,6 +84,7 @@ Inverting amplifier:
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
+![WhatsApp Image 2025-11-27 at 18 49 39_ac2028e9](https://github.com/user-attachments/assets/ff0980bc-9128-41b0-b505-4cbe7a4d2018)
 
 
 ---
@@ -125,6 +126,7 @@ PROCEDURE:
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
+![WhatsApp Image 2025-11-27 at 18 49 40_0d0cec83](https://github.com/user-attachments/assets/6384c0bc-4ea6-4cd4-b313-dc71f417cdba)
 
 
 ---
@@ -180,6 +182,7 @@ Choose  R1 = 1kOhm, Rf = 10kOhm
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
+![WhatsApp Image 2025-11-27 at 18 49 40_77884391](https://github.com/user-attachments/assets/12541ac0-2e7f-4562-8d87-60e118bfb083)
 
 ---
 ## INSTRUMENTATION AMPLIFIER
@@ -214,6 +217,7 @@ PROCEDURE:
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
+![WhatsApp Image 2025-11-27 at 18 49 41_7986e58b](https://github.com/user-attachments/assets/c4be838e-ee01-45fd-8d00-64bfd5d4ece9)
 
 
 ---
