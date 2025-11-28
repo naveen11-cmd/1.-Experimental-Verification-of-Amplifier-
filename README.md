@@ -48,24 +48,19 @@ The negative sign in gain indicates a **phase shift of 180°**.
 Acl = -RF/R1
 
 PIN DIAGRAM
-<img width="624" height="269" alt="image" src="https://github.com/user-attachments/assets/635c9837-d5f5-4d6f-acc9-8a47a4368230" />
+![WhatsApp Image 2025-11-28 at 13 32 34_0865b8c0](https://github.com/user-attachments/assets/fbaf341e-22c8-489c-840f-ce0eb3a7e974)
 
 CIRCUIT DIAGRAM: INVERTING AMPLIFIER:
-![WhatsApp Image 2025-11-27 at 18 11 07_85b645c4](https://github.com/user-attachments/assets/935ea431-cd98-4f6c-99e0-799a35ce15ad)
+![WhatsApp Image 2025-11-28 at 12 56 05_41a7135d](https://github.com/user-attachments/assets/d388e937-4bdb-4be3-a670-1f0e03bb7025)
 
 
 MODEL GRAPH 
 
-<img width="543" height="357" alt="image" src="https://github.com/user-attachments/assets/1836d120-768e-454f-bfe4-682ce70ea7a1" />
+![WhatsApp Image 2025-11-28 at 12 56 10_88f07f89](https://github.com/user-attachments/assets/eb618e41-e4ee-4d29-9a35-1ed51842585a)
 
 DESIGN:
 
-Inverting amplifier:
-
-A = -Rf/R1
-Take  A = 10
-Rf =10 R1
-Choose R1 = 1kΩ, Rf=10kΩ
+![WhatsApp Image 2025-11-28 at 13 26 41_3126f903](https://github.com/user-attachments/assets/3fe31ad3-01d2-4483-a27e-dc7913e35768)
 
 PROCEDURE:
 Inverting amplifier:
@@ -80,7 +75,7 @@ Inverting amplifier:
 
 
 ## TABULATION
-![WhatsApp Image 2025-11-27 at 18 11 10_8c1a3abb](https://github.com/user-attachments/assets/266efc04-f93d-4c76-ba81-153ef614f0b8)
+![WhatsApp Image 2025-11-28 at 12 56 05_314e08fe](https://github.com/user-attachments/assets/205dfe41-257b-4095-af89-ff7e4a379985)
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
@@ -108,9 +103,13 @@ ACL = 1 + RF/R1
 
 ## MODEL GRAPH
 
-<img width="456" height="340" alt="image" src="https://github.com/user-attachments/assets/00c7aaec-b4d8-414e-afa3-e985eb3dd902" />
+![WhatsApp Image 2025-11-28 at 12 56 11_8ad6ce75](https://github.com/user-attachments/assets/555ef718-6b45-488e-a99e-24d53c653b3a)
+
 
 ---
+## DESIGN
+![WhatsApp Image 2025-11-28 at 13 26 41_b919ea42](https://github.com/user-attachments/assets/6f4e3ff8-0f0c-4cde-9ec6-13d5a983f262)
+
 PROCEDURE:
 ### **For  Non-Inverting Amplifier**
 1. Select R1  as a constant value and choose a value for Rf .  
@@ -122,7 +121,8 @@ PROCEDURE:
 7. Plot the input vs. output waveform for one practical case.
 
 ## TABULATION
-![WhatsApp Image 2025-11-27 at 18 32 49_a7329a7e](https://github.com/user-attachments/assets/8ebc84ef-ddaf-41da-a2b9-ea699a420ce5)
+![WhatsApp Image 2025-11-28 at 12 56 08_cfe36e3d](https://github.com/user-attachments/assets/542a317c-d1d9-4cfa-8a17-f7f82dc97444)
+
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
@@ -139,25 +139,19 @@ If the two input signals are identical, the output is ideally **zero**.
 
 A = Vo/{V2 - V1} = -Rf/R1
 ## CIRCUIT DIAGRAM
-![WhatsApp Image 2025-11-27 at 18 11 11_ca91c7a2](https://github.com/user-attachments/assets/b8f18071-60ce-490f-83c7-969b0cf3d124)
+![WhatsApp Image 2025-11-28 at 12 56 11_d6b4fab4](https://github.com/user-attachments/assets/c5853507-15f1-4d08-9488-9274aa92aa30)
+
 
 
 ## MODEL GRAPH
-<img width="678" height="334" alt="image" src="https://github.com/user-attachments/assets/6aa1b9dd-b112-4be1-a37a-d5ee19607b1d" />
+![WhatsApp Image 2025-11-28 at 12 56 12_ab15a587](https://github.com/user-attachments/assets/776b39cc-d3b2-4f22-8cb7-9e1724dcc676)
+
 
 ---
 
 ## DESIGN
+![WhatsApp Image 2025-11-28 at 13 26 42_46b9bda2](https://github.com/user-attachments/assets/c61bad39-46cd-4885-90d4-7518799b27ec)
 
-
-### **Differential Amplifier**
-
-AV = Vo/{V1 - V2} = -Rf/R1
-
-
-Take  A = 10 
-⇒  Rf = 10R1   
-Choose  R1 = 1kOhm, Rf = 10kOhm
 
 ---
 
@@ -176,7 +170,8 @@ Choose  R1 = 1kOhm, Rf = 10kOhm
 
 ## TABULATION (Differential Amplifier)
 
-![WhatsApp Image 2025-11-27 at 18 11 11_f52f44c6](https://github.com/user-attachments/assets/2ec58864-2d33-40b9-8718-133ccd90b334)
+![WhatsApp Image 2025-11-28 at 13 11 50_08dc5b36](https://github.com/user-attachments/assets/8a224e0b-e8a1-4da0-b1f0-7c27ec00284e)
+
 
 
 ---
@@ -197,7 +192,8 @@ Vo = RF/R1[1+ 2R’/R][V2-V1]
 
 ## CIRCUIT DIAGRAM: INSTRUMENTATION AMPLIFIER
 
-![WhatsApp Image 2025-11-27 at 18 39 25_88097170](https://github.com/user-attachments/assets/da29e04a-579a-4d65-8ca3-e58bd535e900)
+![WhatsApp Image 2025-11-28 at 13 18 51_d0f1b794](https://github.com/user-attachments/assets/defee038-7f01-4cce-8dd3-53dd3741a9e8)
+
 
 PROCEDURE:
 
@@ -212,10 +208,10 @@ PROCEDURE:
 ---
 
 ## TABULATION (Instrumentation Amplifier)
-![WhatsApp Image 2025-11-27 at 18 11 11_3b082b59](https://github.com/user-attachments/assets/2e4ec3b1-9812-4fb1-8409-38e35ad2a893)
-
+![WhatsApp Image 2025-11-28 at 13 18 53_1f406441](https://github.com/user-attachments/assets/0f44f7c1-8ac5-46c9-a18b-a4b15f083917)
 
 ---
+
 ## OUT PUT WAVEFORM AND DISCUSSION 
 ![WhatsApp Image 2025-11-27 at 18 49 41_7986e58b](https://github.com/user-attachments/assets/c4be838e-ee01-45fd-8d00-64bfd5d4ece9)
 
