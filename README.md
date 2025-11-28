@@ -1,12 +1,9 @@
 #**EX.NO:** 1  # EXPERIMENTAL VERIFICATION OF AMPLIFIER INVERTING, NON INVERTING , DIFFERENTIAL AMPLIFIER AND INSTRUMENTATION AMPLIFIERS
 **DATE:**  
 ---
-
 ## AIM
 To design and construct an Inverting, Non-Inverting, Differential and Instrumentation amplifiers.
-
 ---
-
 ## APPARATUS REQUIRED
 
 | S.No | Name of the Apparatus | Range | Quantity |
